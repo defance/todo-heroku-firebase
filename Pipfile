@@ -5,6 +5,7 @@ verify_ssl = true
 
 [packages]
 Flask = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.8"
